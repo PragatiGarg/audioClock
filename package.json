@@ -1,0 +1,15 @@
+{
+  "name": "petproject",
+  "version": "1.0.0",
+  "description": "Make your computer say time at regular intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pragati Garg",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "say": "^0.16.0"
+  }
+}
